@@ -18,6 +18,8 @@
 ![Pycharm](https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
 
+![Fabric](https://img.shields.io/badge/Fabric-C4BAA2?style=for-the-badge&logo=fabric&logoColor=ffffff)
+
 ---
 
 ### About Me
