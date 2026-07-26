@@ -41,7 +41,7 @@
 
 ### 📌 Pinned Projects
 
-- [**ADM**](https://github.com/XiaotianNB666/AdvancedDatapackMod) — Advanced Datapack Mod is a Minecraft Mod that makes you do more things than vanllia datapack.
+- [**ADM**](https://github.com/XiaotianNB666/Advanced-Datapack-Mod-1.21.x) — Advanced Datapack Mod is a Minecraft Mod that makes you do more things than vanllia datapack.
 - [**AgendaX**](https://github.com/XiaotianNB666/AgendaX) — AgendaX is an app designed for students to view latest schoolwork that are from teachers.
 
 </div>
