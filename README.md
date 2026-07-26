@@ -35,9 +35,7 @@
 
 ### 📊 GitHub Stats
 
-![XiaotianNB666's GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaotianNB666&show_icons=true&theme=radical)
-
-![My top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaotianNB666&show_icons=true&theme=radical)
+![XiaotianNB666's GitHub stats](github-metrics.svg)
 
 ---
 
