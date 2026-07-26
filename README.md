@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="banner.png">
+</div>
 <div align="left">
 <a href="https://github.com/XiaotianNB666"><img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" /></a>
 <a href="mailto:xiaotiannb666@gmail.com"><img src="https://img.shields.io/static/v1?message=Outlook&logo=outlook&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="outlook logo" /></a>
