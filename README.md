@@ -40,8 +40,8 @@
 ---
 
 ### 📌 Pinned Projects
-
-- [**ADM**](https://github.com/XiaotianNB666/Advanced-Datapack-Mod-1.21.x) — Advanced Datapack Mod is a Minecraft Mod that makes you do more things than vanllia datapack.
-- [**AgendaX**](https://github.com/XiaotianNB666/AgendaX) — AgendaX is an app designed for students to view latest schoolwork that are from teachers.
+- [**Carpet XTS Addition**](https://github.com/XiaotianNB666/Carpet-XTS-Addition) — A Carpet addition for XTS Server — and any other Minecraft server. Makes life easier for admins, and adds a handful of genuinely useful features for players.
+- [**Legacy End Rings**](https://github.com/XiaotianNB666/legacy-end-rings) — Reintroduces the classic End Void Ring generation from 26.3-snapshot-5 and below. Restores the integer overflow behavior that created concentric void rings.
+- [**ADM**](https://github.com/XiaotianNB666/Advanced-Datapack-Mod-1.21.x) — Advanced Datapack Mod is a Minecraft Mod that makes you do more things than vanllia datapack. (Maybe about to stop update)
 
 </div>
